@@ -16,3 +16,7 @@
 [submodule "tools/boost_build"]
 	path = tools/boost_build
 	url = https://github.com/clasp-developers/build
+[submodule "externals-clasp"]
+	path = externals-clasp
+	url = git@github.com:drmeister/externals-clasp.git
+	branch = preview
